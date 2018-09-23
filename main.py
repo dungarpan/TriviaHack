@@ -3,7 +3,6 @@ import pytesseract
 import time
 from numpy import *
 from search_script import search
-
  
 def imageGrab():
 	boxques = (48,370,410,430)
